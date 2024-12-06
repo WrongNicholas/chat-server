@@ -8,7 +8,7 @@ A simple chat server and client system that allows users to send and receive mes
 - C++11
 - g++
 
-# Additional Notes
+## Additional Notes
 
 Additionally, the chat server relies on **port 53000** being open on your router. 
 
