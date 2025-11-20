@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++17",
+      "-Wall",
+      "-I/opt/homebrew/Cellar/sfml/2.6.2/include",
+      "-c",
+      "-o",
+      "user.o",
+      "user.cpp"
+    ],
+    "directory": "/Users/wojnar/Documents/sfml-networking",
+    "file": "/Users/wojnar/Documents/sfml-networking/user.cpp",
+    "output": "/Users/wojnar/Documents/sfml-networking/user.o"
+  }
+]
